@@ -9,7 +9,7 @@ int main(){
 
     while(positive>0){
     
-        cout<<"Please enter a positive integer: ";
+        cout<<"Please please please enter positive integer: ";
         cin>>positive;
 
         acc+=positive;
